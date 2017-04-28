@@ -1,0 +1,16 @@
+{
+    "name": "xiaozhumi/baidu-transapi",
+    "description": "baidu trans api",
+    "type": "library",
+    "require": {
+        "php": "5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaozhumi",
+            "email": "icc0301@163.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
